@@ -1,0 +1,19 @@
+{
+  "main.css": "/airbnb/static/css/main.200de60e.chunk.css",
+  "main.js": "/airbnb/static/js/main.e28f4b8e.chunk.js",
+  "main.js.map": "/airbnb/static/js/main.e28f4b8e.chunk.js.map",
+  "static/js/1.7d8a5b69.chunk.js": "/airbnb/static/js/1.7d8a5b69.chunk.js",
+  "static/js/1.7d8a5b69.chunk.js.map": "/airbnb/static/js/1.7d8a5b69.chunk.js.map",
+  "static/js/2.3c4e28cc.chunk.js": "/airbnb/static/js/2.3c4e28cc.chunk.js",
+  "static/js/2.3c4e28cc.chunk.js.map": "/airbnb/static/js/2.3c4e28cc.chunk.js.map",
+  "runtime~main.js": "/airbnb/static/js/runtime~main.31b59477.js",
+  "runtime~main.js.map": "/airbnb/static/js/runtime~main.31b59477.js.map",
+  "static/media/hero-img.png": "/airbnb/static/media/hero-img.9a0291d4.png",
+  "static/media/image.png": "/airbnb/static/media/image.cdf7c634.png",
+  "static/media/mountain.png": "/airbnb/static/media/mountain.5491ab6f.png",
+  "static/media/wedding.png": "/airbnb/static/media/wedding.ae175755.png",
+  "static/css/main.200de60e.chunk.css.map": "/airbnb/static/css/main.200de60e.chunk.css.map",
+  "index.html": "/airbnb/index.html",
+  "precache-manifest.b3eeb1e62df6c785e8b3ae395abf644e.js": "/airbnb/precache-manifest.b3eeb1e62df6c785e8b3ae395abf644e.js",
+  "service-worker.js": "/airbnb/service-worker.js"
+}
